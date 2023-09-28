@@ -3,3 +3,6 @@
 
 # Save gitignore.
 !/.gitignore
+
+# Ignore current state of nodes.
+/data/
