@@ -6,3 +6,6 @@
 
 # Ignore current state of nodes.
 /data/
+
+# Ignore Maven build.
+/target/
